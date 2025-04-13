@@ -22,10 +22,6 @@ This dataset contains approximately 40,000 news articles with the following feat
 The dataset is well-balanced with articles from various sources and covers a range of topics, making it suitable for building a robust fake news classifier (wich will be implemented in the future).
 
 
-## 📄 License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
-
 ---
 
 *This project was created for educational purposes and to demonstrate data analysis and machine learning techniques for fake news detection. The accuracy of the models should not be solely relied upon for determining the veracity of news articles in production environments.*
